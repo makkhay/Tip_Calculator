@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/shahisagar20/Tip_Calc/tree/master/Gif%20video' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/makkhay/Tip_Calculator/blob/master/Gifs1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [EZGIF.com](http://ezgif.com/video-to-gif).
+GIF created with [LICECAP].
 
 ## Notes
 
