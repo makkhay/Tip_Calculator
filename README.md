@@ -27,7 +27,7 @@ GIF created with [LICECAP].
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was kind of hard at first to get a hang of swift. 
 
 ## License
 
